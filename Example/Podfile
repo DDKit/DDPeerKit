@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'DDPeerKit_Example' do
+  pod 'DDPeerKit', :path => '../'
+
+  target 'DDPeerKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

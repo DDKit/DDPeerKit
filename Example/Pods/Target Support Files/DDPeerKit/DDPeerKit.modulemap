@@ -1,0 +1,6 @@
+framework module DDPeerKit {
+  umbrella header "DDPeerKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

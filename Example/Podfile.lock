@@ -1,0 +1,16 @@
+PODS:
+  - DDPeerKit (1.0.0)
+
+DEPENDENCIES:
+  - DDPeerKit (from `../`)
+
+EXTERNAL SOURCES:
+  DDPeerKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DDPeerKit: 7130d4e1e49cf9b89a5b1c6123530b73f76bc155
+
+PODFILE CHECKSUM: 60fdcba43e6337d43b29a50b0d53451f81368ec3
+
+COCOAPODS: 1.5.3

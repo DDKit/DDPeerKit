@@ -1,0 +1,6 @@
+framework module Pods_DDPeerKit_Example {
+  umbrella header "Pods-DDPeerKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
